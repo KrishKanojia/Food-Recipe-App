@@ -1,9 +1,13 @@
 # food_recipe_app
 
 A new Flutter project.
-![Screenshot_1627113465](https://user-images.githubusercontent.com/75294518/126862268-1c5128bc-a8e8-4054-90e6-1dc344e1199e.png)
 
-![Screenshot_1627113514](https://user-images.githubusercontent.com/75294518/126862319-0267b51b-2f26-4af3-88d8-5e37e3626ee8.png)
+
+![1](https://user-images.githubusercontent.com/75294518/126862376-4515d03a-b219-4285-92fc-c80eab0709e9.PNG)
+
+
+![2](https://user-images.githubusercontent.com/75294518/126862399-a79e779d-baad-4e2f-b4bc-78c3f216c67b.PNG)
+
 
 
 ## Getting Started
