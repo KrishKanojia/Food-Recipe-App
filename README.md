@@ -1,6 +1,10 @@
 # food_recipe_app
 
 A new Flutter project.
+![Screenshot_1627113465](https://user-images.githubusercontent.com/75294518/126862268-1c5128bc-a8e8-4054-90e6-1dc344e1199e.png)
+
+![Screenshot_1627113514](https://user-images.githubusercontent.com/75294518/126862319-0267b51b-2f26-4af3-88d8-5e37e3626ee8.png)
+
 
 ## Getting Started
 
